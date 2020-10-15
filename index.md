@@ -88,6 +88,31 @@ Cut the ribbon cables using scissors or a cutter:
 
 
 
+## Installing the switches
+
+**Carefully install the switches in the specified order, using the pictures for help**
+
+- Insert the assembled PCBs into the case
+- Starting with the top row, install the two switches in the middle columns and solder them
+- Then, install the two switches around it. You will have to push the PCB so it aligns, and then insert the switches. This is by design, and once the switches inserted the PCB won't move. Solder these switches
+- Finish the top row
+- Do the bottom row in the same way. The PCB won't hold on the switches, you can hold it with the soldering iron and then add the tin
+- Finish the top part of the keyboard
+- Install the switches on the thumb cluster
+
+<details>
+  <summary>Click here to see the pictures</summary>
+
+![Figure 2](https://github.com/HID-Technologies/Bastyl-DIY-instructions/blob/gh-pages/images/sw1.PNG)
+![Figure 2](https://github.com/HID-Technologies/Bastyl-DIY-instructions/blob/gh-pages/images/sw2.PNG)
+![Figure 2](https://github.com/HID-Technologies/Bastyl-DIY-instructions/blob/gh-pages/images/sw3.PNG)
+![Figure 2](https://github.com/HID-Technologies/Bastyl-DIY-instructions/blob/gh-pages/images/sw4.PNG)
+![Figure 2](https://github.com/HID-Technologies/Bastyl-DIY-instructions/blob/gh-pages/images/sw5.PNG)
+![Figure 2](https://github.com/HID-Technologies/Bastyl-DIY-instructions/blob/gh-pages/images/sw6.PNG)
+
+</details>
+
+
 
 
 ## Welcome to GitHub Pages
