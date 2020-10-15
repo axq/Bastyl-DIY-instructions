@@ -37,7 +37,7 @@ There are 12 screw inserts to install, 6 on each side of the keyboard
 - Once the insert is 2/3 of the way in, stop 
 - Flip over the case and push it against a flat surface, to make the insert flush with the case
 
-![Figure 2](https://github.com/HID-Technologies/Bastyl-DIY-instructions/blob/gh-pages/images/insert3.PNG)
+![Figure 2](./images/insert3.PNG)
 
 ## Diodes and cables
 
@@ -91,7 +91,7 @@ Install the Flexyl:
 | B6  | R5  |
 
 
-![Figure 2](https://github.com/HID-Technologies/Bastyl-DIY-instructions/blob/gh-pages/images/cab.PNG)
+![Figure 2](./images/cab.PNG)
 
 
 
