@@ -127,6 +127,7 @@ Install the Flexyl:
 - Using a 20mm screw and nut, secure the MCU adapter and holder to the mid-plate and bottom plate 
 - Slide in the MCU in the adapter until you hit the end. **The MCU is supposed to be a bit outside of the adapter**, don't push too hard
 - Slide the holder and install the other screw and nut
+- **Do not overtighten**. Screw in until it feels secure
 
 <<TODO PICS>>
 
@@ -134,3 +135,4 @@ Install the Flexyl:
 
 - Carefully slide the USB-C into the hole
 - Making sure the USB-C is aligned, install the 6 screws
+- **Do not overtighten**. Screw in until it feels secure
