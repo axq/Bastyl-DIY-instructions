@@ -100,17 +100,8 @@ Cut the ribbon cables using scissors or a cutter:
 - Finish the top part of the keyboard
 - Install the switches on the thumb cluster
 
-<details>
-  <summary>Click here to see the pictures</summary>
 
-![Figure 2](./images/sw1.PNG)
-![Figure 2](./images/sw2.PNG)
-![Figure 2](./images/sw3.PNG)
-![Figure 2](./images/sw4.PNG)
-![Figure 2](./images/sw5.PNG)
-![Figure 2](./images/sw6.PNG)
-
-</details>
+![Figure 2](./images/mont1.jpg)
 
 
 
