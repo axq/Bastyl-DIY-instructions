@@ -39,7 +39,7 @@ There are 12 screw inserts to install, 6 on each side of the keyboard
 
 ![Figure 2](./images/insert3.PNG)
 
-## Diodes and cables
+## Diodes
 
 **Pay attention to the orientation of the PCBs: you need two "right", and two "left"**
 
