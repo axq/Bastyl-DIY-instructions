@@ -54,11 +54,37 @@ Cut the ribbon cables using scissors or a cutter:
 - 2 * ribbons of 5 cables
 
 - Solder the 6-cable ribbon cables on the thumb cluster PCB
-- Solder the other end on the flexyl PCB, at the bottom - **make sure the legends align !**. C5 should be connected to C5, C6 to C6, and so on
+- Solder the other end on the flexyl PCB, at the bottom - **make sure the legends align !** C5 should be connected to C5, C6 to C6, and so on
 - Solder the 6-cable ribbon cable to the bottom part of the top connector of the Flexyl - R4 to R5
 - Solder the 5-cable ribbon cable to the top part of the top connector of the Flexyl - C3 to R2
 
-Now, all the cables should be used on the PCBs.
+
+- Solder the 5-cable ribbon to the right part of the MCU. **Use the table under** to double-check the correct orientation
+- **Make sure the cable is coming out of the top part of the MCU** (with the components). Look at the picture to double-check
+
+| MCU  | Flexyl PCB |
+| ------------- | ------------- |
+| C6 | C3  |
+| D7  | R1  |
+| E6  |  C2 |
+| B4  | C1  |
+| B5  | R2  |
+
+
+- Solder the 6-cable ribbon to the left part of the MCU. **Use the table under** to double-check the correct orientation
+- **Make sure the cable is coming out of the top part of the MCU** (with the components). Look at the picture to double-check
+
+| MCU  | Flexyl PCB |
+| ------------- | ------------- |
+| F5 | R4  |
+| F7  | R3  |
+| B1  |  C4 |
+| B3  | C5  |
+| B2  | C6  |
+| B6  | R5  |
+
+
+![Figure 2](https://github.com/HID-Technologies/Bastyl-DIY-instructions/blob/gh-pages/images/cab.PNG)
 
 
 
