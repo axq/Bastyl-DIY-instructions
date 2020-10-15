@@ -48,19 +48,22 @@ There are 12 screw inserts to install, 6 on each side of the keyboard
 
 ## Ribbon cables
 
+**When installing the ribbon cables, make sure the cables are coming out of the top part of the MCU - with the components, check the picture below**
+
 Cut the ribbon cables using scissors or a cutter:
 
 - 4 * ribbons of 6 cables
 - 2 * ribbons of 5 cables
 
+Solder the ribbon cables, for each side:
 
-- Solder the 6-cable ribbon cables on the thumb cluster PCB
+- Solder a 6-cable ribbon cable on the thumb cluster PCB
 - Solder the other end on the flexyl PCB, at the bottom - **make sure the legends align !** C5 should be connected to C5, C6 to C6, and so on
-- Solder the 6-cable ribbon cable to the bottom part of the top connector of the Flexyl - R4 ... R5
-- Solder the 5-cable ribbon cable to the top part of the top connector of the Flexyl - C3 ... R2
 
+Install the Thumb cluster:
 
-- Solder the 5-cable ribbon to the right part of the MCU. **Use the table under** to double-check the correct orientation
+- Solder the 5-cable ribbon cable to the top part of the top connector of the Flexyl (C3 ... R2)
+- Solder the other end to the right part of the MCU. **Use the table under** to double-check the correct orientation
 - **Make sure the cable is coming out of the top part of the MCU** (with the components). Look at the picture to double-check
 
 | MCU  | Flexyl PCB |
@@ -72,7 +75,10 @@ Cut the ribbon cables using scissors or a cutter:
 | B5  | R2  |
 
 
-- Solder the 6-cable ribbon to the left part of the MCU. **Use the table under** to double-check the correct orientation
+Install the Flexyl:
+
+- Solder a 6-cable ribbon cable to the bottom part of the top connector of the Flexyl (R4 ... R5)
+- Solder the other end to the left part of the MCU. **Use the table under** to double-check the correct orientation
 - **Make sure the cable is coming out of the top part of the MCU** (with the components). Look at the picture to double-check
 
 | MCU  | Flexyl PCB |
@@ -94,6 +100,7 @@ Cut the ribbon cables using scissors or a cutter:
 **Carefully install the switches in the specified order, using the pictures for help**
 
 - Insert the assembled PCBs into the case
+- At all times, make sure it doesn't get stuck outside of the case, make sure it's under the screw inserts
 - Starting with the top row, install the two switches in the middle columns and solder them
 - Then, install the two switches around it. You will have to push the PCB so it aligns, and then insert the switches. This is by design, and once the switches inserted the PCB won't move. Solder these switches
 - Finish the top row
@@ -106,10 +113,10 @@ Cut the ribbon cables using scissors or a cutter:
 
 ## Install the audio jack
 
-- Solder cables to audio jack. Their position is not important, as long as it's the same on both sides. *Do not solder to the MCU yet.*
+- Solder cables to audio jack. Their position is not important, as long as it's the same on both sides. **Do not solder to the MCU yet.**
 - Install the heat shrink wrap and shrink it with a heat gun or a lighter
 - Screw audio jack into case
-- (Optional) add a bit of hot glue to the jack so it sticks better. **Only do so in the indicated position**, so it won't interfere with installation of the MCU
+- (Optional) add a bit of hot glue to the jack so it holds better. **Only do so in the indicated position**, so it won't interfere with installation of the MCU
 - Solder cables to the MCU (Blinky or Elite-C): black to GND, red to Vcc, blue to D0
 
 ![Figure 2](./images/mont2.jpg)
