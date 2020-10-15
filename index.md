@@ -1,3 +1,46 @@
+## Step 0 – how to use this guide
+
+The DIY kit is currently in beta. This guide is meant to help you go
+through a build. You can click on the pictures to look at a full-res
+version of them
+
+## Step 1 – Kit contents
+
+Before beginning, please check that your kit has all the elements you will need. Should something be missing, please contact us immediately. 
+
+Use the kit paper you got with your order.
+
+## Step 2 – Required tools and material
+
+
+You will need to buy yourself :
+
+- 1 Usb-C cable
+- 1 Standard audio cable
+
+To build this keyboard, you will need:
+
+- Soldering iron
+- M4 torx or flathead screwdriver
+- Soldering tin
+- (Optional) Wire stripper
+- (Optional) Hot glue gun
+- (Optional) Heat gun
+
+## Step 3 - Install screw inserts
+
+- Set your soldering iron temperature to 300 degrees if you can.
+- Using the soldering iron, place the heated insert inside the hole
+- *Apply little to no pressure, let the gravity do the work*
+- Once the insert is 2/3 of the way in, stop 
+- Flip over the case and push it against a flat surface, to make the insert flush with the case
+
+![Figure 1](images/insert.png)
+
+![Figure 2](images/insert2.png)
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/HID-Technologies/Bastyl-DIY-cinstructions/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
