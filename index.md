@@ -88,7 +88,7 @@ Cut the ribbon cables using scissors or a cutter:
 
 
 
-## Installing the switches
+## Install the switches
 
 **Carefully install the switches in the specified order, using the pictures for help**
 
@@ -102,6 +102,22 @@ Cut the ribbon cables using scissors or a cutter:
 
 
 ![Figure 2](./images/mont1.jpg)
+
+## Install the audio jack
+
+- Solder cables to audio jack. Their position is not important, as long as it's the same on both sides
+- Install the heat shrink wrap and shrink it with a heat gun or a lighter
+- Screw audio jack into case
+- (Optional) add a bit of hot glue to the jack so it sticks better. Only do so in the indicated position, so it won't interfere with installation of the MCU
+- Solder cables to MCU: black to GND, red to Vcc, blue to D0
+
+
+![Figure 2](./images/mont2.jpg)
+
+
+
+
+
 
 
 
