@@ -109,7 +109,7 @@ Install the Flexyl:
 - Install the switches on the thumb cluster
 
 
-![Figure 2](./images/mont1.jpg)
+![Figure 2](./images/mont1.png)
 
 ## Install the audio jack
 
@@ -119,7 +119,7 @@ Install the Flexyl:
 - (Optional) add a bit of hot glue to the jack so it holds better. **Only do so in the indicated position**, so it won't interfere with installation of the MCU
 - Solder cables to the MCU (Blinky or Elite-C): black to GND, red to Vcc, blue to D0
 
-![Figure 2](./images/mont2.jpg)
+![Figure 2](./images/mont2.png)
 
 
 ## Install the MCU Adapter
