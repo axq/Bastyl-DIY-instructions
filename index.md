@@ -1,16 +1,16 @@
-## Step 0 – how to use this guide
+## How to use this guide
 
 The DIY kit is currently in beta. This guide is meant to help you go
 through a build. You can click on the pictures to look at a full-res
 version of them
 
-## Step 1 – Kit contents
+## Kit contents
 
 Before beginning, please check that your kit has all the elements you will need. Should something be missing, please contact us immediately. 
 
 Use the kit paper you got with your order.
 
-## Step 2 – Required tools and material
+## Required tools and material
 
 
 You will need to buy yourself :
@@ -27,17 +27,40 @@ To build this keyboard, you will need:
 - (Optional) Hot glue gun
 - (Optional) Heat gun
 
-## Step 3 - Install screw inserts
+## Screw inserts
+
+There are 12 screw inserts to install, 6 on each side of the keyboard
 
 - Set your soldering iron temperature to 300 degrees if you can.
 - Using the soldering iron, place the heated insert inside the hole
-- *Apply little to no pressure, let the gravity do the work*
+- *Apply little to no pressure, let the gravity do the work*. Otherwise, you might push them too far
 - Once the insert is 2/3 of the way in, stop 
 - Flip over the case and push it against a flat surface, to make the insert flush with the case
 
-![Figure 1](images/insert.png)
+![Figure 2](https://github.com/HID-Technologies/Bastyl-DIY-instructions/blob/gh-pages/images/insert2.PNG)
 
-![Figure 2](images/insert2.png)
+## Diodes and cables
+
+**Pay attention to the orientation of the PCBs: you need two "right", and two "left"**
+
+- Solder all the diodes on the four PCBs (flexyls and thumb clusters)
+- Check the orientation of the diodes: use the indications on the PCB
+
+## Ribbon cables
+
+Cut the ribbon cables using scissors or a cutter:
+
+- 4 * ribbons of 6 cables
+- 2 * ribbons of 5 cables
+
+- Solder the 6-cable ribbon cables on the thumb cluster PCB
+- Solder the other end on the flexyl PCB, at the bottom - **make sure the legends align !**. C5 should be connected to C5, C6 to C6, and so on
+- Solder the 6-cable ribbon cable to the bottom part of the top connector of the Flexyl - R4 to R5
+- Solder the 5-cable ribbon cable to the top part of the top connector of the Flexyl - C3 to R2
+
+Now, all the cables should be used on the PCBs.
+
+
 
 
 
