@@ -53,10 +53,11 @@ Cut the ribbon cables using scissors or a cutter:
 - 4 * ribbons of 6 cables
 - 2 * ribbons of 5 cables
 
+
 - Solder the 6-cable ribbon cables on the thumb cluster PCB
 - Solder the other end on the flexyl PCB, at the bottom - **make sure the legends align !** C5 should be connected to C5, C6 to C6, and so on
-- Solder the 6-cable ribbon cable to the bottom part of the top connector of the Flexyl - R4 to R5
-- Solder the 5-cable ribbon cable to the top part of the top connector of the Flexyl - C3 to R2
+- Solder the 6-cable ribbon cable to the bottom part of the top connector of the Flexyl - R4 ... R5
+- Solder the 5-cable ribbon cable to the top part of the top connector of the Flexyl - C3 ... R2
 
 
 - Solder the 5-cable ribbon to the right part of the MCU. **Use the table under** to double-check the correct orientation
@@ -105,57 +106,24 @@ Cut the ribbon cables using scissors or a cutter:
 
 ## Install the audio jack
 
-- Solder cables to audio jack. Their position is not important, as long as it's the same on both sides
+- Solder cables to audio jack. Their position is not important, as long as it's the same on both sides. *Do not solder to the MCU yet.*
 - Install the heat shrink wrap and shrink it with a heat gun or a lighter
 - Screw audio jack into case
-- (Optional) add a bit of hot glue to the jack so it sticks better. Only do so in the indicated position, so it won't interfere with installation of the MCU
-- Solder cables to MCU: black to GND, red to Vcc, blue to D0
-
+- (Optional) add a bit of hot glue to the jack so it sticks better. **Only do so in the indicated position**, so it won't interfere with installation of the MCU
+- Solder cables to the MCU (Blinky or Elite-C): black to GND, red to Vcc, blue to D0
 
 ![Figure 2](./images/mont2.jpg)
 
 
+## Install the MCU Adapter
 
+- Using a 20mm screw and nut, secure the MCU adapter and holder to the mid-plate and bottom plate 
+- Slide in the MCU in the adapter until you hit the end. **The MCU is supposed to be a bit outside of the adapter**, don't push too hard
+- Slide the holder and install the other screw and nut
 
+<<TODO PICS>>
 
+## Install the plates
 
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/HID-Technologies/Bastyl-DIY-cinstructions/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HID-Technologies/Bastyl-DIY-cinstructions/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Carefully slide the USB-C into the hole
+- Making sure the USB-C is aligned, install the 6 screws
