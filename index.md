@@ -103,12 +103,12 @@ Cut the ribbon cables using scissors or a cutter:
 <details>
   <summary>Click here to see the pictures</summary>
 
-![Figure 2](https://github.com/HID-Technologies/Bastyl-DIY-instructions/blob/gh-pages/images/sw1.PNG)
-![Figure 2](https://github.com/HID-Technologies/Bastyl-DIY-instructions/blob/gh-pages/images/sw2.PNG)
-![Figure 2](https://github.com/HID-Technologies/Bastyl-DIY-instructions/blob/gh-pages/images/sw3.PNG)
-![Figure 2](https://github.com/HID-Technologies/Bastyl-DIY-instructions/blob/gh-pages/images/sw4.PNG)
-![Figure 2](https://github.com/HID-Technologies/Bastyl-DIY-instructions/blob/gh-pages/images/sw5.PNG)
-![Figure 2](https://github.com/HID-Technologies/Bastyl-DIY-instructions/blob/gh-pages/images/sw6.PNG)
+![Figure 2](./images/sw1.PNG)
+![Figure 2](./images/sw2.PNG)
+![Figure 2](./images/sw3.PNG)
+![Figure 2](./images/sw4.PNG)
+![Figure 2](./images/sw5.PNG)
+![Figure 2](./images/sw6.PNG)
 
 </details>
 
