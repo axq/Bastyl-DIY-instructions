@@ -35,9 +35,9 @@ To build this keyboard, you will need:
 - Once the insert is 2/3 of the way in, stop 
 - Flip over the case and push it against a flat surface, to make the insert flush with the case
 
-![Figure 1](images/insert.png)
+![Figure 1](images/insert.PNG)
 
-![Figure 2](images/insert2.png)
+![Figure 2](images/insert2.PNG)
 
 
 
