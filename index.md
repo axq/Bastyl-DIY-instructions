@@ -139,7 +139,7 @@ Install the Flexyl:
 - Slide the holder and install the other screw and nut
 - **Do not overtighten**. Screw in until it feels secure
 
-<<TODO PICS>>
+TODO PICS HERE
 
 ## Install the plates
 
