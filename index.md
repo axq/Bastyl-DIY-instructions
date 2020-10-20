@@ -61,7 +61,7 @@ Install the Thumb cluster:
 - Solder a 6-cable ribbon cable on the thumb cluster PCB
 - Solder the other end on the flexyl PCB, at the bottom - **make sure the legends align !** C5 should be connected to C5, C6 to C6, and so on
 - Make sure you install the cables on the same side as the components - check the picture
-- Make sure you connect the Flexyl <<right>> with the thumb cluster <<right>>, and the <<left>> with the <<left>>
+- Make sure you connect the Flexyl "Right" with the thumb cluster "Right", and the "Left" with the "Left" - check the picture
 
 ![Figure 2](./images/IMG_20201020_134123.jpg)
 
