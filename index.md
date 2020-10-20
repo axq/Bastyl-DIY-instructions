@@ -31,15 +31,16 @@ To build this keyboard, you will need:
 
 There are 12 screw inserts to install, 6 on each side of the keyboard
 
-- Set your soldering iron temperature to 300 degrees if you can.
+- Set your soldering iron temperature to 200 degrees 
 - Using the soldering iron, place the heated insert inside the hole
 - *Apply little to no pressure, let the gravity do the work*. Otherwise, you might push them too far
+- If the insert doesn't fall into place, you can slowly increase the temperature, but don't go over 300 degrees
 - Once the insert is 2/3 of the way in, stop 
 - Flip over the case and push it against a flat surface, to make the insert flush with the case
 
 ![Figure 2](./images/insert3.PNG)
 
-## Diodes and cables
+## Diodes
 
 **Pay attention to the orientation of the PCBs: you need two "right", and two "left"**
 
