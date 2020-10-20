@@ -56,12 +56,14 @@ Cut the ribbon cables using scissors or a cutter:
 - 4 * ribbons of 6 cables
 - 2 * ribbons of 5 cables
 
-Solder the ribbon cables, for each side:
+Install the Thumb cluster:
 
 - Solder a 6-cable ribbon cable on the thumb cluster PCB
 - Solder the other end on the flexyl PCB, at the bottom - **make sure the legends align !** C5 should be connected to C5, C6 to C6, and so on
 
-Install the Thumb cluster:
+![Figure 2](./images/IMG_20201020_134123.jpg)
+
+Install the Flexyl:
 
 - Solder the 5-cable ribbon cable to the top part of the top connector of the Flexyl (C3 ... R2)
 - Solder the other end to the right part of the MCU. **Use the table under** to double-check the correct orientation
@@ -75,8 +77,6 @@ Install the Thumb cluster:
 | B4  | C1  |
 | B5  | R2  |
 
-
-Install the Flexyl:
 
 - Solder a 6-cable ribbon cable to the bottom part of the top connector of the Flexyl (R4 ... R5)
 - Solder the other end to the left part of the MCU. **Use the table under** to double-check the correct orientation
@@ -93,12 +93,19 @@ Install the Flexyl:
 
 
 ![Figure 2](./images/cab.PNG)
+![Figure 2](./images/IMG_20201020_135019.jpg)
+![Figure 2](./images/IMG_20201020_135029.jpg)
 
 
 
 ## Install the switches
 
 **Carefully install the switches in the specified order, using the pictures for help**
+
+
+**At all times, be careful not to touch the case or the ribbons with the soldering iron.**
+
+**If you touch the case, THE CASE WILL MELT and be damaged irreparably.**
 
 - Insert the assembled PCBs into the case
 - At all times, make sure it doesn't get stuck outside of the case, make sure it's under the screw inserts
