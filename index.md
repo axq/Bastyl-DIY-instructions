@@ -144,5 +144,7 @@ TODO PICS HERE
 ## Install the plates
 
 - Carefully slide the USB-C into the hole
-- Making sure the USB-C is aligned, install the 6 screws
+- Making sure the USB-C is aligned, start by inserting the top 2 screws
+- If necessary, push a bit so the USB-C fits into the hole
 - **Do not overtighten**. Screw in until it feels secure
+- Insert the rest of the screws
