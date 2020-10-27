@@ -141,8 +141,6 @@ Install the Flexyl:
 
 ![Figure 2](./images/inserts.png)
 
-TODO PICS HERE
-
 ## Install the plates
 
 - Carefully slide the USB-C into the hole
