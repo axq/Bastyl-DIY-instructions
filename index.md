@@ -134,15 +134,12 @@ Install the Flexyl:
 
 ## Install the MCU Adapter
 
-- Using two 20mm screw and a nut, secure the MCU adapter and holder to the bottom plate. Use the 3 layers of the adapter
-
-![Figure 2](./images/IMG_20201027_150004.jpg)
-
+- Using two 20mm screw and a nut, secure the MCU adapter and holder to the bottom plate. Use the 3 layers of the adapter. Use the picture below for reference
 - Slide in the MCU in the adapter until you hit the end. **The MCU is supposed to be a bit outside of the adapter**, don't push too hard
 - Slide the holder and install the other nut, finish screwing in
 - **Do not overtighten**. Screw in until it feels secure
 
-![Figure 2](./images/IMG_20201027_145535.jpg)
+![Figure 2](./images/inserts.png)
 
 TODO PICS HERE
 
