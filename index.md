@@ -49,8 +49,6 @@ There are 12 screw inserts to install, 6 on each side of the keyboard
 
 ## Ribbon cables
 
-**When installing the ribbon cables, make sure the cables are coming out of the top part of the MCU - with the components, check the picture below**
-
 Cut the ribbon cables using scissors or a cutter:
 
 - 4 * ribbons of 6 cables
