@@ -129,6 +129,12 @@ Install the Flexyl:
 
 ![Figure 2](./images/mont2.png)
 
+## Test the keyboard
+
+Now is a good time to test the keyboard. 
+The Elite-Cs/Blinkys come pre-flashed with QMK, so you simply have to connect both halves, then the right side to your computer. Use a website like [keyboardchecker.com/](keyboardchecker.com/) to ensure that every switch works.
+
+If you're going to flash your own version of QMK, make sure that there's a RESET key on your layout.
 
 ## Install the MCU Adapter
 
