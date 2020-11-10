@@ -113,7 +113,7 @@ Install the Flexyl:
 - Finish the top row
 - Do the bottom row in the same way. The PCB won't hold on the switches, you can hold it with the soldering iron and then add the tin
 - Finish the top part of the keyboard
-- Install the switches on the thumb cluster
+- Install the switches on the thumb cluster, and solder them. **Be careful not to damage the ribbon cables or the case**
 
 
 ![Figure 2](./images/mont1.png)
