@@ -1,8 +1,7 @@
-## How to use this guide
+## Bastyl DIY Kit
 
-The DIY kit is currently in beta. This guide is meant to help you go
-through a build. You can click on the pictures to look at a full-res
-version of them
+This guide is meant to help you go
+through a quick and easy build of the Bastyl. Feel free to give us feedback.
 
 ## Kit contents
 
