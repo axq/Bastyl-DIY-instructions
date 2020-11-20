@@ -83,7 +83,7 @@ Install the Flexyl:
 
 | MCU  | Flexyl PCB |
 | ------------- | ------------- |
-| F5 | R4  |
+| F6 | R4  |
 | F7  | R3  |
 | B1  |  C4 |
 | B3  | C5  |
