@@ -139,6 +139,11 @@ If you're going to flash your own version of QMK, make sure that there's a RESET
 
 - Using two 20mm screw and a nut, secure the MCU adapter and holder to the bottom plate. Use the 3 layers of the adapter. Use the picture below for reference
 - Slide in the MCU in the adapter until you hit the end. **The MCU is supposed to be a bit outside of the adapter**, don't push too hard
+
+- The end of the USB-C port should be just a little inside of the case (compare the alignment with the plate)
+- The other end of the MCU should be flushed against the end of the middle adapter
+- If not - check the inside of the middle adapter part, there might be some 3d printed material leftover 
+
 - Slide the holder and install the other nut, finish screwing in
 - **Do not overtighten**. Screw in until it feels secure
 
