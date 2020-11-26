@@ -118,6 +118,29 @@ Install the Flexyl:
 
 ![Figure 2](./images/mont1.png)
 
+## Install the RGB Plate
+
+If you have a midplate RGB PCB, follow those instructions. Otherwise, skip to [Install the audio jack](##install-the-audio-jack).
+
+### Preparing the RGB Plate
+
+- Be careful about orientation: there's one left, and one right PCB
+- Solder the resistor (R), and the capacitor (C)
+- On the same side, solder the leds, facing down towards the table. **The white indicators are for the Gnd, and should be aligned with the shorter pin of the leds**
+- Solder 3 cables to each plate: red to Vcc, black to Gnd, green to Din. The cables should come out on the same side that the components are soldered
+
+### Prepare and install the audio jack
+
+- Solder cables to audio jack. Their position is not important, as long as it's the same on both sides. **Do not solder to the MCU yet.**
+- Install the heat shrink wrap and shrink it with a heat gun or a lighter
+- Screw audio jack into case
+- (Optional) add a bit of hot glue to the jack so it holds better. **Only do so in the indicated position**, so it won't interfere with installation of the MCU
+- Solder cables from the audio jack to the RGB plate: red to Vcc
+- Solder cables from the audio jack to the MCU: black to gnd, blue to D0
+- Solder cables from the RGB plate to the MCU: red to Vcc, green to D2
+
+MCU (Blinky or Elite-C): black to GND, red to Vcc, blue to D0
+
 ## Install the audio jack
 
 - Solder cables to audio jack. Their position is not important, as long as it's the same on both sides. **Do not solder to the MCU yet.**
@@ -138,6 +161,7 @@ If you're going to flash your own version of QMK, make sure that there's a RESET
 ## Install the MCU Adapter
 
 - Using two 20mm screw and a nut, secure the MCU adapter and holder to the bottom plate. Use the 3 layers of the adapter. Use the picture below for reference
+- If you have an RGB midplate, screw into the plate, then the midplate, then the PCB, then the mid and top adapter. Do not use the bottom adapter.
 - Slide in the MCU in the adapter until you hit the end. **The MCU is supposed to be a bit outside of the adapter**, don't push too hard
 
 - The end of the USB-C port should be just a little inside of the case (compare the alignment with the plate)
