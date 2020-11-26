@@ -120,7 +120,7 @@ Install the Flexyl:
 
 ## Install the RGB Plate
 
-If you have a midplate RGB PCB, follow those instructions. Otherwise, skip to [Install the audio jack](##install-the-audio-jack).
+If you have a midplate RGB PCB, follow those instructions. Otherwise, skip to [Install the audio jack](#install-the-audio-jack).
 
 ### Preparing the RGB Plate
 
