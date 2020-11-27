@@ -131,6 +131,8 @@ If you have a midplate RGB PCB, follow those instructions. Otherwise, skip to [I
 
 ### Prepare and install the audio jack
 
+The cables need to be soldered in a very specific way. Use the diagram below for help.
+
 - Solder cables to audio jack. Their position is not important, as long as it's the same on both sides. **Do not solder to the MCU yet.**
 - Install the heat shrink wrap and shrink it with a heat gun or a lighter
 - Screw audio jack into case
@@ -139,7 +141,7 @@ If you have a midplate RGB PCB, follow those instructions. Otherwise, skip to [I
 - Solder cables from the audio jack to the MCU: black to gnd, blue to D0
 - Solder cables from the RGB plate to the MCU: red to Vcc, green to D2
 
-MCU (Blinky or Elite-C): black to GND, red to Vcc, blue to D0
+![Figure 2](./images/rgb.png)
 
 ## Install the audio jack
 
