@@ -175,7 +175,7 @@ If you're going to flash your own version of QMK, make sure that there's a RESET
 - Slide the holder and install the other nut, finish screwing in
 - **Do not overtighten**. Screw in until it feels secure
 
-![Figure 2](./images/adapter.png)
+![Figure 2](./images/adapter.PNG)
 ![Figure 2](./images/inserts.png)
 
 ## Install the plates
