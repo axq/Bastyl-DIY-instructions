@@ -136,7 +136,7 @@ The cables need to be soldered in a very specific way. Use the diagram below for
 - Solder cables to audio jack. Their position is not important, as long as it's the same on both sides. **Do not solder to the MCU yet.**
 - Install the heat shrink wrap and shrink it with a heat gun or a lighter
 - Screw audio jack into case
-- (Optional) add a bit of hot glue to the jack so it holds better. **Only do so in the indicated position** (see picture below), so it won't interfere with installation of the MCU
+- (Optional) add a bit of hot glue to the jack so it holds better. **Only do so in the indicated position** (see picture in [Install the audio jack](#install-the-audio-jack)), so it won't interfere with installation of the MCU
 - Solder cables from the audio jack to the RGB plate: red to Vcc
 - Solder cables from the audio jack to the MCU: black to gnd, blue to D0
 - Solder cables from the RGB plate to the MCU: black for Gnd, red for Vcc, green for Din/D2
@@ -175,6 +175,7 @@ If you're going to flash your own version of QMK, make sure that there's a RESET
 - Slide the holder and install the other nut, finish screwing in
 - **Do not overtighten**. Screw in until it feels secure
 
+![Figure 2](./images/adapter.PNG)
 ![Figure 2](./images/inserts.png)
 
 ## Install the plates
