@@ -35,7 +35,7 @@ There are 12 screw inserts to install, 6 on each side of the keyboard
 - *Apply little to no pressure, let the gravity do the work*. Otherwise, you might push them too far
 - If the insert doesn't fall into place, you can slowly increase the temperature, but don't go over 300 degrees
 - Once the insert is 2/3 of the way in, stop 
-- Flip over the case and push it against a flat surface, to make the insert flush with the case
+- Flip over the case and gradually push it against a flat surface, to make the insert flush with the case
 
 ![Figure 2](./images/insert3.PNG)
 
